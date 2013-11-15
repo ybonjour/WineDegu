@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wine Degu</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wine_detail">Wine</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="color">Color</string>
+    <string name="nose">Nose</string>
+    <string name="palate">Palate</string>
+    <string name="overall">Overall</string>
+    <string name="save">Save</string>
+    <string name="newWine">New Wine</string>
+    <string name="description">Description</string>
+    <string name="title_activity_degu_detail">Degu</string>
+    <string name="add_degu">Add Degu</string>
+    <string name="edit">Edit</string>
+
+</resources>
